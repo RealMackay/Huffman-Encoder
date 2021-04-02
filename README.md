@@ -1,5 +1,5 @@
 # Huffman-Encoder
-Note: This is a rough draft.
+Note: This is a rough draft. Completed as a learning exercise.
 
 Description: Given a string as input -> huffman encoded string will be generated as output.
 
